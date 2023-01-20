@@ -33,4 +33,4 @@ place external .cmake here
 # scripts
 optional: place any scripts here like python or bash
 # pkg
-optional: place pkg installer here
+optional: generate installer pkg here
