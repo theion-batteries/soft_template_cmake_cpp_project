@@ -1,4 +1,4 @@
-# soft_template_repo
+# soft_template_repo_cmake_cpp
 use this repo as template for new subprojects written in cpp and using cmake as build tool.
 use this folder structure to let cmake handles path and naming for you.
 ```text
@@ -13,6 +13,7 @@ git_root_
      |_ tests/
      |_ cmake/ 
      |_ scripts/
+     |_ pkg/
 ```
 
 # src
@@ -31,3 +32,5 @@ place your tests here
 place external .cmake here
 # scripts
 optional: place any scripts here like python or bash
+# pkg
+optional: place pkg installer here
